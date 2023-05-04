@@ -1,1 +1,3 @@
-We are working with some audio classes to classify them in perticular manner that whenever we need an classification we can do using our project.
+Audio classification dataset contains 8732 labeled sound which are (≤ 4s) of urban sounds from 10 classes: air conditioner, car
+horn, children playing, dog bark, drilling, engine idling, gun shot, jackhammer, siren, and street music. The classes are drawn from the urban sound
+toxinonmy 8732 audio files of urban sounds in WAV format. We classify these 8732 labels in above 10 different classes using machine learning and deep learning.
